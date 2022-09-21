@@ -1,6 +1,6 @@
 {
   "name": "cadienvan-event-bus",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A simple event bus for in-browser usage. Compatible with ESM.",
   "main": "index.js",
   "scripts": {

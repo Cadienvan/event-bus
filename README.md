@@ -13,4 +13,5 @@ If you prefer a simpler approach, you could just import the `index.js` file in y
 ```js
 eventBus.on('event', (data) => console.log(data));
 eventBus.emit('event', 'Hello World!');
+eventBus.off('event');
 ```
