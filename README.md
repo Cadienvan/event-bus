@@ -7,6 +7,7 @@ Simply import the module and start using it as follows:
 import ee from 'cadienvan-event-bus/index.mjs';
 ee.on('event', (data) => console.log(data));
 ee.emit('event', 'Hello World!');
+ee.off('event');
 ```
 
 If you prefer a simpler approach, you could just import the `index.js` file in your HTML as a script tag and use the global `eventBus` variable:
