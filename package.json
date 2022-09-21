@@ -1,0 +1,16 @@
+{
+  "name": "cadienvan-event-bus",
+  "version": "1.0.0",
+  "description": "A simple event bus for in-browser usage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Michael Di Prisco",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Cadienvan/event-bus.git"
+  },
+  "license": "MIT"
+}
