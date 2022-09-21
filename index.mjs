@@ -1,4 +1,4 @@
-window.eventBus = {
+export default {
   on(event, callback) {
     document.addEventListener(event, (e) => callback(e.detail));
   },
