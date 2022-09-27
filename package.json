@@ -1,12 +1,17 @@
 {
-  "name": "cadienvan-event-bus",
-  "version": "1.1.2",
-  "description": "A simple event bus for in-browser usage. Compatible with ESM.",
+  "name": "@cadienvan/js-event-bus",
+  "private": false,
+  "version": "0.0.1",
+  "description": "A simple event bus for in-browser usage inspired by Node.js Event Emitter API. Compatible with ESM.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
+  "scripts": {},
+  "keywords": [
+    "event",
+    "event bus",
+    "bus",
+    "js event",
+    "event emitter"
+  ],
   "author": "Michael Di Prisco",
   "repository": {
     "type": "git",
