@@ -1,7 +1,7 @@
 {
   "name": "@cadienvan/js-event-bus",
   "private": false,
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A simple event bus for in-browser usage inspired by Node.js Event Emitter API. Compatible with ESM.",
   "main": "index.js",
   "scripts": {},

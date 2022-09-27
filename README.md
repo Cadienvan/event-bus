@@ -4,7 +4,7 @@ This is a simple event bus made using the CustomEvent Web API for in-browser usa
 # How to use it?
 Simply import the module and start using it as follows:
 ```js
-import ee from 'cadienvan-event-bus/index.mjs';
+import ee from '@cadienvan/js-event-bus';
 ee.on('event', (data) => console.log(data));
 ee.emit('event', 'Hello World!');
 ee.off('event');
