@@ -1,6 +1,12 @@
 # What is this?
 This is a simple event bus made using the CustomEvent Web API for in-browser usage simulating the Node.js EventEmitter API.
 
+# How do I install it?
+You can install it by using the following command:
+```bash
+npm install @cadienvan/js-event-bus
+```
+
 # How to use it?
 Simply import the module and start using it as follows:
 ```js
